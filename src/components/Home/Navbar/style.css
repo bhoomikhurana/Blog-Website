@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+.logo{
+ font-size: larger;
+ font-family: 'Kanit', sans-serif;
+}
+.nav{
+    color: inherit;
+    text-decoration: inherit;
+    /* text-decoration: none; */
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:  #574eff;
+    width: 100vw;
+    height: 10vh;
+    position:absolute;
+    left: 0%;
+    top: 0%;
+}
+.myactive{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
