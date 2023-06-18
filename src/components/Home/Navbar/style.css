@@ -27,3 +27,15 @@ a{
     text-decoration: none;
     color: white;
 }
+@media  screen and (max-width:500px) {
+    .nav{
+        font-size: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        align-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    }
